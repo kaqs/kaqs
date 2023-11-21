@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h2>About me</h2> 
 
-- 🔄 Career change
+- 🔄 Career transition
 - 🚧 I’m currently working on: Replica of a cat sitting website
 - 📚 Front-end Student - <a href="https://www.alura.com.br"> Alura </a>
 - 🎓 BSc in Accounting (Brazil) and AAT Advanced Diploma in Accounting (UK)
